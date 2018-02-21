@@ -48,4 +48,4 @@ This code reimplements GFOLD algorithm in Python with use of the fantastic cvxpy
 
 ### License
 GPLv3, copyleft license.
-Chosen because I want to see what people do and have further changes shared!
+Chosen because I spent way too many late nights and heartbeats working on this - and want to see what people do with it and have further changes propagated forward!
